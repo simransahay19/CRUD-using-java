@@ -14,6 +14,10 @@ After registration, the user gets added to the database.
 ### Read
 Users can log in to their respective profiles.
 ![Login Page](https://github.com/simransahay19/CRUD-using-java/assets/97499721/ae1dc089-95e9-4b6c-b6e0-8a579c3cee58)
+.
+.
+![image](https://github.com/simransahay19/CRUD-using-java/assets/97499721/b30513c7-f563-4370-8126-4b83b6e311ff)
+
 
 ### Update
 Users can update their name or password.
